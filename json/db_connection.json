@@ -1,0 +1,8 @@
+{
+    "db_conn":{
+        "dbhost": "localhost",
+        "dbuser": "root",
+        "dbpass": "Fr34kb00x$",
+        "db": "fabric"
+    }
+}
